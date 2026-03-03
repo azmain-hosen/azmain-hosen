@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi 👋 I'm Azmain Hosen
+
+🚀 Aspiring Software Developer | Web Enthusiast  
+🌱 Currently learning Web Development & Programming  
+🎯 Goal: Become a professional developer
 
 <!--
 **azmain-hosen/azmain-hosen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
