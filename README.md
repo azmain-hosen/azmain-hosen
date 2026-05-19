@@ -9,7 +9,12 @@
 🎯 Goal: Become a professional developer
 
 🛸 **Profile Views Counter:**
-![Profile Views](https://komarev.com/ghvc/?color=blueviolet&style=for-the-badge&logo=github&username=azmain-hosen)
+
+## 👤 Profile Visitors
+
+<p align="left">
+  <img src="https://count.getloli.com/get/@azmain-hosen?theme=moebooru" alt="Visitor Count" />
+</p>
 
 ---
 
@@ -64,14 +69,60 @@
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?show_icons=true&count_private=true&theme=tokyonight&username=azmain-hosen" alt="GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&theme=tokyonight&username=azmain-hosen" alt="Top Languages" height="180px" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?theme=tokyonight&user=azmain-hosen" alt="GitHub Streak" />
-</p>
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=RS-Arafath&show_icons=true&theme=tokyonight&hide_border=true" width="100%" height="220"/>
+
+</td>
+
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RS-Arafath&layout=compact&theme=tokyonight&hide_border=true" width="100%" height="220"/>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+<img src="https://streak-stats.demolab.com?user=RS-Arafath&theme=tokyonight&hide_border=true" width="100%" height="220"/>
+
+</td>
+
+<td width="50%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RS-Arafath&theme=tokyo-night&hide_border=true" width="500" height="220"/>
+
+</td>
+</tr>
+</table>
+</div>
+<br>
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=RS-Arafath&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<div align="center">
+
+<svg width="600" height="80" viewBox="0 0 600 80">
+  <path id="wavePath" d="M0,40 C100,10 200,70 300,40 C400,10 500,70 600,40" fill="transparent"/>
+  
+  <text font-size="52" font-weight="bold" fill="#1E90FF">
+    <textPath href="#wavePath" startOffset="50%" text-anchor="middle">
+THANKS FOR VISITING
+    </textPath>
+  </text>
+</svg>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0047FF,50:0099FF,100:66CCFF&height=120&section=footer"/>
+
+</div>
 
 ## 🚀 My GitHub Contribution Graph
 
@@ -82,6 +133,7 @@
 ---
 
 ## 💬 Random Dev Quote
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Coding Quote" />
 </p>
