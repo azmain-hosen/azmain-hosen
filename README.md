@@ -72,10 +72,6 @@
 <div align="center">
   <table border="0">
     <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=azmain-hosen&show_icons=true&theme=tokyonight&hide_border=true" height="180"/></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azmain-hosen&layout=compact&theme=tokyonight&hide_border=true" height="180"/></td>
-    </tr>
-    <tr>
       <td><img src="https://streak-stats.demolab.com?user=azmain-hosen&theme=tokyonight&hide_border=true" height="180"/></td>
       <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=azmain-hosen&theme=tokyo-night&hide_border=true" height="180"/></td>
     </tr>
