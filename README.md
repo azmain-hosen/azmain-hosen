@@ -9,15 +9,15 @@
 🎯 Goal: Become a professional developer
 
 🛸 **Profile Views Counter:**
-<img src="https://komarev.com/ghvc/?username=azmain-hosen&color=blueviolet&style=for-the-badge&logo=github" alt="Profile Views" />
+![Profile Views](https://komarev.com/ghvc/?username=azmain-hosen&color=blueviolet&style=for-the-badge&logo=github)
 
 ---
 
 ## 🌐 Socials:
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.style=flat-square&logo=Facebook&logoColor=white)](https://facebook.com/mrazmainhosen)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-azmain-hosen-8aaa64409)
-[![Email](https://img.shields.io/badge/Email-%23D14836.style=flat-square&logo=gmail&logoColor=white)](mailto:md.azmainhosen.dev@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/your-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-username)
+[![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:md.azmainhosen.dev@gmail.com)
 
 ---
 
@@ -67,6 +67,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=azmain-hosen&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azmain-hosen&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=azmain-hosen&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ## 🚀 My GitHub Contribution Graph
