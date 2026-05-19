@@ -8,7 +8,7 @@
 ## 🌐 Socials:
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=Facebook&logoColor=white)](https://facebook.com/mrazmainhosen)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-azmain-hosen-8aaa64409/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-azmain-hosen-8aaa64409)
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 
 ---
