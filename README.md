@@ -4,6 +4,11 @@
 🌱 Currently learning Web Development & Programming  
 🎯 Goal: Become a professional developer
 
+---
+
+![Profile Views](https://komarev.com/ghvc/?username=azmain-hosen&color=purple&style=flat-square)
+
+---
 
 ## 🌐 Socials:
 
@@ -80,8 +85,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=azmain-hosen&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
+---
+
 ## 🚀 My GitHub Contribution Graph
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=azmain-hosen&theme=tokyonight" alt="GitHub Contribution" width="100%" />
 </p>
+
+---
