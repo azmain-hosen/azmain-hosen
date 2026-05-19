@@ -9,7 +9,7 @@
 🎯 Goal: Become a professional developer
 
 🛸 **Profile Views Counter:**
-![Profile Views](https://komarev.com/ghvc/?username=azmain-hosen&color=blueviolet&style=for-the-badge&logo=github)
+![Profile Views](https://komarev.com/ghvc/?color=blueviolet&style=for-the-badge&logo=github&username=azmain-hosen)
 
 ---
 
@@ -65,12 +65,12 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azmain-hosen&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azmain-hosen&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?show_icons=true&count_private=true&theme=tokyonight&username=azmain-hosen" alt="GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&theme=tokyonight&username=azmain-hosen" alt="Top Languages" height="180px" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=azmain-hosen&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?theme=tokyonight&user=azmain-hosen" alt="GitHub Streak" />
 </p>
 
 ## 🚀 My GitHub Contribution Graph
