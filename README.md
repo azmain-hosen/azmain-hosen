@@ -90,14 +90,6 @@
   </a>
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&height=60&lines=THANKS+FOR+VISITING" alt="Wave Text" />
-  <br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0047FF,50:0099FF,100:66CCFF&height=120&section=footer"/>
-</div>
-
 ---
 
 ## 🚀 My GitHub Contribution Graph
@@ -117,13 +109,7 @@
 <br>
 
 <div align="center">
-  <svg width="600" height="80" viewBox="0 0 600 80">
-    <path id="wavePath" d="M0,40 C100,10 200,70 300,40 C400,10 500,70 600,40" fill="transparent"/>
-    <text font-size="32" font-weight="bold" fill="#1E90FF">
-      <textPath href="#wavePath" startOffset="50%" text-anchor="middle">
-        THANKS FOR VISITING
-      </textPath>
-    </text>
-  </svg>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&height=60&lines=THANKS+FOR+VISITING" alt="Wave Text" />
+  <br>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0047FF,50:0099FF,100:66CCFF&height=120&section=footer"/>
 </div>
