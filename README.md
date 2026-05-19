@@ -88,14 +88,6 @@
 
 ---
 
-## 🚀 My GitHub Contribution Graph
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=azmain-hosen&theme=tokyonight" alt="GitHub Contribution" width="100%" />
-</p>
-
----
-
 ## 💬 Random Dev Quote
 
 <p align="center">
