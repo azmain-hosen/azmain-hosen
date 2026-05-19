@@ -97,7 +97,7 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&height=60&lines=THANKS+FOR+VISITING" alt="Wave Text" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&minheight=60&lines=THANKS+FOR+VISITING" alt="Wave Text" />
   <br>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0047FF,50:0099FF,100:66CCFF&height=120&section=footer"/>
 </div>
