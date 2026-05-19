@@ -4,9 +4,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A970FF&width=500&lines=Aspiring+Software+Engineer;Full+Stack+Web+Developer;Learning+C+and+Cyber+Security" alt="Typing SVG" />
 </a>
 
-# 🚀 Aspiring Software Developer | Web Enthusiast
-# 🌱 Currently learning Web Development & Programming
-# 🎯 Goal: Become a professional developer
+- 🚀 Aspiring Software Developer | Web Enthusiast
+- 🌱 Currently learning Web Development & Programming
+- 🎯 Goal: Become a professional developer
 
 ## 👤 Profile Visitors
 <p align="left">
