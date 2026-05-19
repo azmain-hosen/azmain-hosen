@@ -82,6 +82,22 @@
   </table>
 </div>
 
+<br>
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=azmain-hosen&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="trophy" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&height=60&lines=THANKS+FOR+VISITING" alt="Wave Text" />
+  <br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0047FF,50:0099FF,100:66CCFF&height=120&section=footer"/>
+</div>
+
 ---
 
 ## 🚀 My GitHub Contribution Graph
