@@ -1,7 +1,7 @@
 # Hi 👋 I'm Azmain Hosen
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A970FF&width=500&lines=Aspiring+Software+Engineer;Full+Stack+Web+Developer;Learning+C+%26+Cyber+Security" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A970FF&width=500&lines=Aspiring+Software+Engineer;Full+Stack+Web+Developer;Learning+C+and+Cyber+Security" alt="Typing SVG" />
 </a>
 
 🚀 Aspiring Software Developer | Web Enthusiast
@@ -9,7 +9,7 @@
 🎯 Goal: Become a professional developer
 
 🛸 **Profile Views Counter:**
-![Profile Views](https://komarev.com/ghvc/?username=azmain-hosen&color=blueviolet&style=for-the-badge&logo=github&v=2)
+![Profile Views](https://komarev.com/ghvc/?username=azmain-hosen&color=blueviolet&style=for-the-badge&logo=github)
 
 ---
 
@@ -65,12 +65,12 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azmain-hosen&show_icons=true&theme=tokyonight&count_private=true&v=2" alt="GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azmain-hosen&layout=compact&theme=tokyonight&v=2" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=azmain-hosen&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azmain-hosen&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=azmain-hosen&theme=tokyonight&v=2" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=azmain-hosen&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ## 🚀 My GitHub Contribution Graph
