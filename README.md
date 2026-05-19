@@ -1,7 +1,7 @@
 # Hi 👋 I'm Azmain Hosen
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A970FF&width=435&lines=Aspiring+Software+Engineer;Full+Stack+Web+Developer;Learning+Kali+Linux+%26+C" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A970FF&width=500&lines=Aspiring+Software+Engineer;Full+Stack+Web+Developer;Learning+C+%26+Cyber+Security" alt="Typing SVG" />
 </a>
 
 🚀 Aspiring Software Developer | Web Enthusiast
