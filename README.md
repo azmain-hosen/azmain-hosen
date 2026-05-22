@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="./images/azmain hosen.png" alt="Azmain Hosen Banner" width="100%">
+</p>
+
+---
+
 # Hi 👋 I'm Azmain Hosen
 
 <a href="https://git.io/typing-svg">
