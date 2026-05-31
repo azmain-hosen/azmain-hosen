@@ -83,13 +83,6 @@
   </table>
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=azmain-hosen&theme=onedark" (https://github.com/ryo-ma/github-profile-trophy)
-  </a>
-</div>
-
 ---
 
 ## 💬 Random Dev Quote
