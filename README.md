@@ -9,6 +9,7 @@
 - 🎯 Goal: Become a professional developer
 
 ## 👤 Profile Visitors
+
 <p align="left">
   <img src="https://count.getloli.com/get/@azmain-hosen?theme=moebooru" alt="Visitor Count" />
 </p>
@@ -26,6 +27,7 @@
 ## 💻 Tech Stack:
 
 ### 🚀 Languages & Frontend
+
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
@@ -41,6 +43,7 @@
 ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 ### ⚙️ Backend, Mobile & Databases
+
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.do.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
@@ -51,6 +54,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🛡️ Cyber Security & OS
+
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-%23557C94.svg?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Kali Purple](https://img.shields.io/badge/Kali_Purple-%234D0066.svg?style=for-the-badge&logo=kali-linux&logoColor=white)
@@ -58,6 +62,7 @@
 ![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### 🛠️ Tools & Design
+
 ![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -81,7 +86,7 @@
 <br>
 
 <div align="center">
-  ![trophy] <img src="https://github-profile-trophy.vercel.app/?username=azmain-hosen&theme=onedark" (https://github.com/ryo-ma/github-profile-trophy)
+  <img src="https://github-profile-trophy.vercel.app/?username=azmain-hosen&theme=onedark" (https://github.com/ryo-ma/github-profile-trophy)
   </a>
 </div>
 
