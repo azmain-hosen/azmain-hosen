@@ -81,7 +81,7 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  [<a href="https://github.com/ryo-ma/github-profile-trophy">](https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=3)
     <img src="https://github-profile-trophy.vercel.app/?username=azmain-hosen&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="trophy" />
   </a>
 </div>
